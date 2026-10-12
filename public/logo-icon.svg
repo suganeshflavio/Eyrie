@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Cradling Arc (Silver / Slate Grey) -->
+  <path d="M 44 86 C 44 140 156 140 156 86" stroke="#A0AEC0" stroke-width="7" stroke-linecap="round" fill="none"/>
+  
+  <!-- Central Blue Circle at base of cradle -->
+  <circle cx="100" cy="128" r="7.5" fill="#0052CC"/>
+  
+  <!-- Stylized Wing Blades -->
+  <!-- Bottom Blade (Royal Blue) -->
+  <path d="M 82 120 C 92 108 108 95 125 87 L 115 102 C 102 110 92 118 82 120 Z" fill="#0052CC"/>
+  
+  <!-- Middle Blade (Silver Slate) -->
+  <path d="M 76 106 C 90 90 110 75 133 66 L 123 80 C 105 89 89 101 76 106 Z" fill="#CBD5E1"/>
+  
+  <!-- Top Blade with Eagle Head & Beak (Royal Blue) -->
+  <path d="M 73 90 C 88 68 110 50 134 40 C 137 39 140 40 143 40 C 145 40 148 41 146 43 C 144 44 140 45 137 46 C 139 48 141 51 139 53 L 132 57 C 114 66 92 82 73 90 Z" fill="#0052CC"/>
+</svg>

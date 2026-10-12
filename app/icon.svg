@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <!-- Rounded Background Shield -->
+  <rect width="128" height="128" rx="28" fill="#0A111E"/>
+  
+  <g transform="translate(14, 10) scale(0.5)">
+    <!-- Cradling Arc (Silver / Slate Grey) -->
+    <path d="M 44 96 C 44 156 156 156 156 96" stroke="#94A3B8" stroke-width="10" stroke-linecap="round" fill="none"/>
+    
+    <!-- Central Blue Circle -->
+    <circle cx="100" cy="144" r="10" fill="#3B82F6"/>
+    
+    <!-- Wing Blades -->
+    <!-- Bottom Blade (Royal Blue) -->
+    <path d="M 82 128 C 96 114 116 100 138 90 L 128 106 C 110 115 96 124 82 128 Z" fill="#2563EB"/>
+    
+    <!-- Middle Blade (Silver Slate) -->
+    <path d="M 74 110 C 92 90 118 72 146 62 L 134 78 C 112 88 92 102 74 110 Z" fill="#E2E8F0"/>
+    
+    <!-- Top Blade with Eagle Head & Beak (Royal Blue) -->
+    <path d="M 68 90 C 86 64 115 42 146 30 C 151 28 155 28 158 29 C 160 30 162 31 161 33 C 159 34 156 35 154 36 C 156 38 156 41 154 43 L 144 48 C 122 60 94 78 68 90 Z" fill="#3B82F6"/>
+  </g>
+</svg>

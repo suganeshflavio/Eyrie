@@ -21,7 +21,7 @@ export default function HeroVideoCarousel() {
   const [isPlaying, setIsPlaying] = useState(true);
   const [isPausedByUser, setIsPausedByUser] = useState(false);
   const videoRefs = useRef<(HTMLVideoElement | null)[]>([]);
-  const slideDuration = 4000; // 7 seconds per slide
+  const slideDuration = 3000; // 7 seconds per slide
 
   const slideIcons = [
     Layers,

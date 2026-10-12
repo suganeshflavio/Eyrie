@@ -224,12 +224,12 @@ export default function Footer() {
           <div>
             Designed and managed by{" "}
             <a
-              href="https://www.navanalatech.com/"
+              // href="https://www.navanalatech.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-300 hover:text-white underline underline-offset-2"
             >
-              NavaNala Technologies
+              Sugan@HiveTech
             </a>
           </div>
         </div>
